@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #fff8f0; /* Fundo claro */
+    color: #333; /* Texto escuro */
+}
+
+h1 {
+    color: #ff8c00; /* Laranja mais forte */
+    text-align: center;
+}
+
+h2 {
+    color: #ff7f50; /* Coral laranja */
+    margin-top: 30px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Bordas arredondadas */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #ffebcc; /* Fundo claro para itens de preço */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #666; /* Texto mais claro */
+}
